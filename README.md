@@ -1,2 +1,2 @@
 # cx
-scripting language as C eXtension
+A C eXtension scripting language

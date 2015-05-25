@@ -21,6 +21,7 @@
 *.dylib
 
 # Executables
+cx
 *.exe
 *.out
 *.app
@@ -30,3 +31,6 @@
 
 # Debug files
 *.dSYM/
+
+# tmp files
+*.sw*
